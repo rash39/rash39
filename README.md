@@ -6,11 +6,11 @@
 
 - 🔭 I’m a Data Science professional with 3+ years of experience in Data Extraction, Data Modelling,Data Wrangling, Statistical Modelling, Machine Learning, Time Series Forecasting, Predictive Modelling and Data Visualization. Demonstrated remarkable impact on Fortune 200 companies in both the US and UK by harnessing the power of **Machine Learning**, **Predictive Analytics**, **Precise Forecasting**, and the creation of actionable dashboards.
 
-- 🌱 I’m currently learning **Azure Devops**
+- 🌱 I’m currently working on **RAG implementation to Query PDFS**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@rashh39)
 
-- 📫 You can reach out to me at [Email](sriboya@iu.edu)
+- 📫 You can reach out to me at [Email](srirashmithaboya@gmail.com)
 
 - 📄 Know about my experiences [Resume](https://www.linkedin.com/in/sri-rashmitha-boya/overlay/1706670970150/single-media-viewer/?profileId=ACoAACkBKRUBJMV6yhkSkPxkpNEAU5Wx_M8f8T4)
 
